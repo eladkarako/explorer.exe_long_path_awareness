@@ -1,0 +1,18 @@
+
+*.zip                     binary
+
+*.png                     binary
+
+
+
+*.reg         text      eol=crlf
+
+
+*.Manifest    text      eol=crlf
+
+
+*.manifest    text      eol=crlf
+
+
+*.md                    eol=crlf
+
