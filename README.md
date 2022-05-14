@@ -1,3 +1,12 @@
+edit: not working.  
+note: while theoretically those steps should provide `explorer.exe` the benefit of long-path awareness,  
+as it would for any (normal) program,  
+`explorer.exe` is not a normal program (per-say),  
+it is obviously containing additional components I am not aware of,  
+as is, this was a nice experiment,  
+but it does not seems to work.  
+note 2: it does not seems to work on other programs either. perhaps the fault is the OS implementation silently failing for some reason.
+
 <h2><code>explorer.exe</code>: Long Path Awareness <br/><sub>(..also with new <code>SegmentHeap</code>)</sub></h2>
 
 <h1>
